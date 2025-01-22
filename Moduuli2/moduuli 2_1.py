@@ -1,9 +1,3 @@
-print("hello world")
-print("tämä on toinen tulostusrivi")
-print ("ja kolmas...")
-print("jne")
+nimi=input("Mikä on sinun nimesi?")
 
-käyttäjä = input('Anna nimesi: Daauud')
-           print("Hauska tavata,"Daauud" "!")
-
-#toinen testi
+print(f"Hei {nimi}! Hauska tavata sinut.")
